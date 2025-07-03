@@ -15,8 +15,8 @@
 
 <h2>📺 Cybersecurity Projects</h2>
 
-- [File Type Spoof Checker](File-Type-Spoof-Checker.git)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [File Type Spoof Checker](https://github.com/sivaranjani-mspluto/File-Type-Spoof-Checker.git)
+- [URL Obfuscate and Deobfuscate Tool](https://github.com/sivaranjani-mspluto/URL_Obfuscation_Tool.git)
 
 <h2> 🤳 Connect with me:</h2>
 
