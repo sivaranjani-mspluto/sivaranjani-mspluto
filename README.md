@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sivaranjani! <br/> Programmer</a>, Cybersecurity Engineer</a>
+<h1>Hi, I'm Sivaranjani! <br/> Programmer</a>, Cybersecurity Aspirant</a>
 
 <h2>👨‍💻 Projects:</h2>
 
